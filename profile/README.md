@@ -11,9 +11,9 @@
 <p align="center">
   <a href="https://github.com/HireDiverSity-Play/playground-hub">Playground Hub</a>
   ·
-  <a href="https://github.com/HireDiverSity-Play/loveclinic-web">Loveclinic Web</a>
+  <a href="https://github.com/HireDiverSity-Play/loveclinic-web">Love clinic</a>
   ·
-  <a href="https://github.com/HireDiverSity-Play/name-matching">name-matching</a>
+  <a href="https://github.com/HireDiverSity-Play/name-matching">Name Matching</a>
 </p>
 
 ---
@@ -39,6 +39,8 @@
 |---|---|
 | `playground-hub` | Playground 전체 허브 및 서비스 진입점 |
 | `loveclinic-web` | 개별 실험 서비스 |
+| `name-matching` | 개별 실험 서비스 |
+
 
 > 전체 Repository는 상단의 **Repositories** 탭에서 확인할 수 있습니다.
 
