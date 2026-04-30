@@ -1,6 +1,3 @@
-<p align="center">
-  <img src="https://raw.githubusercontent.com/HireDiverSity-Play/.github/main/profile/assets/logo.png" width="96" alt="HireDiverSity Play Logo" />
-</p>
 
 <h1 align="center">HireDiverSity Play</h1>
 
