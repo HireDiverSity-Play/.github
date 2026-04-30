@@ -1,5 +1,5 @@
 
-<h1 align="center">HireDiverSity Play</h1>
+<h1 align="center">HireDiverSity Playground</h1>
 
 <p align="center">
   HireDiverSity의 실험, 프로토타입, 미니 서비스, QA 자동화 검증을 위한 Playground입니다.
